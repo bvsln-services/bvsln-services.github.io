@@ -2,11 +2,11 @@
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
-    width: 120px;
+    height: 50px;
   }
   img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 50px;
   }
   a {
     display: block;
@@ -22,8 +22,8 @@
     display: none;
   }
   img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 50px;
   }
   a {
     display: block;
