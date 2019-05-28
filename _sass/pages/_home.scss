@@ -3,9 +3,13 @@
   background-repeat: no-repeat;
   background-size: 115%;
   background-position: 49px -40px;
+  @include media-breakpoint-up(xs) {
+    background-size: 65%;
+    background-position: 65px 35px;
+  }
   @include media-breakpoint-up(sm) {
-    background-size: 90%;
-    background-position: 159px -40px;
+    background-size: 65%;
+    background-position: 65px 35px;
   }
   @include media-breakpoint-up(md) {
     background-size: 70%;
@@ -33,7 +37,7 @@
       width: 90%;
     }
     @include media-breakpoint-up(md) {
-      width: 70%;
+      width: 100%;
     }
     @include media-breakpoint-up(lg) {
       width: 60%;
