@@ -1,11 +1,15 @@
 ---
-title: "Superannuation"
-image: "/services/default.png"
+title: 'Process Consulting'
+image: '/services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Customized consulting services spanning multiple process areas to help organizations achieve business excellence.
+
+<!-- more -->
+
+Understand -> Document existing process -> Evaluate against CMMI/ISO -> GAP Analysis -> Bridge gaps -> Orienting/Training on QMS -> Institutionalize the processes -> Prepare for assesment -> Culminating in final assesment
+
+QMS, Training on QMS, Preparation for assesment/
 
 ## Ne verba patulosque numen vix libet
 
