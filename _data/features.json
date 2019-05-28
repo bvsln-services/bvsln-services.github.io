@@ -1,17 +1,24 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "CMMI Transition Partner",
+    "description": "Licensed partner focusing on CMMI for Development, Services, Training, Appraisals and High Maturity Appraisals",
+    "image": "images/features/noun_branding_1885335.svg",
+    "url": "https://cmmiinstitute.com/partners/directory/bvsln-system-services-private-limited"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "ISO Accredited Partner <sup>*</sup>",
+    "description": "Soon to be certified in ISO 9001:2015 and 27001:2013",
+    "image": "images/features/noun_branding_1885335.svg",
+    "url": ""
+  },
+  {
+    "title": "Team of Experts",
+    "description": "We are a team comprising of industry experts, each with 25+ years of experience!",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Care & Commitment",
+    "description": "We are a small team who strive to deliver the best for you",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
