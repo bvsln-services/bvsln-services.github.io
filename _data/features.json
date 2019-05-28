@@ -1,24 +1,24 @@
 [
   {
     "title": "CMMI Transition Partner",
-    "description": "Licensed partner focusing on CMMI for Development, Services, Training, Appraisals and High Maturity Appraisals",
-    "image": "images/features/noun_branding_1885335.svg",
+    "description": "Licensed partner for Development and Services",
+    "image": "images/features/cmmi-institute-partner.png",
     "url": "https://cmmiinstitute.com/partners/directory/bvsln-system-services-private-limited"
   },
   {
     "title": "ISO Accredited Partner <sup>*</sup>",
     "description": "Soon to be certified in ISO 9001:2015 and 27001:2013",
-    "image": "images/features/noun_branding_1885335.svg",
+    "image": "images/features/iso-award.svg",
     "url": ""
   },
   {
     "title": "Team of Experts",
     "description": "We are a team comprising of industry experts, each with 25+ years of experience!",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/expert-team.svg"
   },
   {
     "title": "Care & Commitment",
     "description": "We are a small team who strive to deliver the best for you",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/care-commitment.svg"
   }
 ]
