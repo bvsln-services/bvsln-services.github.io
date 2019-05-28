@@ -1,4 +1,7 @@
-email: 'hello@bvsln.com'
-phone: '+91 99999 99999'
+email: 'info@bvsln.com'
+phones: 
+  - '+91 98801 61480'
+  - '+91 99725 77188'
+  - '+91 80 42041188'
 businessName: 'BVSLN Services'
 address: ' #114, 4th Floor, Amaravathi Complex, E End Main Rd, Jayanagara 9th Block, Bengaluru, Karnataka 560069'

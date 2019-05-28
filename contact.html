@@ -17,7 +17,11 @@ bodyClass: page-contact
   <div class="row">
     <div class="col-12 col-md-8">
       <ul>
-        <li><strong>Phone: </strong><a href="tel:{{ site.data.contact.phone }}">{{ site.data.contact.phone }}</a></li>
+        <li><strong>Phone: </strong> 
+          {% for phone in site.data.contact.phones %}
+          <a href="tel:{{ phone }}">{{ phone }}</a> |
+          {% endfor %}
+        </li>
         <li><strong>Email: </strong><a href="mailto:{{ site.data.contact.email }}">
             {{ site.data.contact.email }}</a></li>
         {% if site.data.contact.address %}
