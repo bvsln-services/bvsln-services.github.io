@@ -19,7 +19,10 @@ bodyClass: page-contact
       <ul>
         <li><strong>Phone: </strong> 
           {% for phone in site.data.contact.phones %}
-          <a href="tel:{{ phone }}">{{ phone }}</a> |
+            <a href="tel:{{ phone }}">{{ phone }}</a>
+            {% if forloop.last != true %}
+              |
+            {% endif %}
           {% endfor %}
         </li>
         <li><strong>Email: </strong><a href="mailto:{{ site.data.contact.email }}">
