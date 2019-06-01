@@ -4,6 +4,8 @@ description: "High-quality process audits, helping you adhere to industry best p
 image: "/services/default.png"
 ---
 
+High-quality process audits, helping you adhere to industry best practices
+
 Our team of experts consists of certified Lead auditors who helped organisations in their Internal audits along with establishing their Internal auditing team by imparting required training and creating a team of experts. Our Auditing services include:
 
 * Internal Quality Audits
