@@ -6,11 +6,11 @@ image: '/services/noun_591323.png'
 
 Customized consulting services spanning multiple process areas to help organizations achieve business excellence
 
-<div class="media p-3 bg-light">
-  <img src="/images/services/noun_tool kit_528015.svg" class="mr-3" alt="...">
+<div class="media p-2 bg-light">
+  <img src="/images/services/noun_tool kit_528015.svg" class="mr-3 align-self-center" style="height: 100px" alt="...">
   <div class="media-body">
     <h5 class="mt-0">Frameworks</h5>
-	<ul>
+	<ul class="pl-1">
 		<li> CMMI for Development (CMMI - Dev / SVC) </li>
 		<li> ISO 9001:2015 </li>
 		<li> ISO 27001:2013 </li>
@@ -18,33 +18,33 @@ Customized consulting services spanning multiple process areas to help organizat
   </div>
 </div>
 
-<div class="media p-3">
+<div class="media p-2">
   <div class="media-body">
     <h5 class="mt-0">Business Objectives</h5>
 	We provide tailored services at the highest level to help you achieve your objectives.
 	We help organisations achieve Operational Excellence through deployment of best practices and processes.
   </div>
-  <img src="/images/services/noun_Business_2493436.svg" class="mr-3" alt="...">
+  <img src="/images/services/noun_Business_2493436.svg" class="ml-3 align-self-center" style="height: 100px" alt="...">
 </div>
 
-<div class="media p-3 bg-light">
-  <img src="/images/services/noun_process_2021898.svg" class="mr-3" alt="...">
+<div class="media p-2 bg-light">
+  <img src="/images/services/noun_process_2021898.svg" class="mr-3 align-self-center" style="height: 100px" alt="...">
   <div class="media-body">
     <h5 class="mt-0">Wide range of expertise</h5>
 	Our team is highly skilled in key process areas, including Business Process Re-engineering, Quality Management,  Information Security, Project Management, and IT Service Management
   </div>
 </div>
 
-<div class="media p-3">
+<div class="media p-2">
   <div class="media-body">
     <h5 class="mt-0">Enhanced Competitive Edge</h5>
 	We facilitate enhanced competitiveness through multi-faceted interventions leading to Business Improvement through consulting, people, process and operational assessments, benchmarking & resource provisioning.
   </div>  
-  <img src="/images/services/noun_competitive analysis_995544.svg" class="mr-3" alt="...">
+  <img src="/images/services/noun_competitive analysis_995544.svg" class="ml-3 align-self-center" style="height: 100px" alt="...">
 </div>
 
-<div class="media p-3 bg-light mb-3">
-  <img src="/images/services/noun_process_2021778.svg" class="mr-3" alt="...">
+<div class="media p-2 bg-light mb-3">
+  <img src="/images/services/noun_process_2021778.svg" class="mr-3 align-self-center" style="height: 100px" alt="...">
   <div class="media-body">
     <h5 class="mt-0">End-to-End</h5>
 	Our process consulting services span the entire length of the process, ranging from Process definition, Process Approach, Implementation & Awareness Training to Process assessment and Improvement initiatives.
