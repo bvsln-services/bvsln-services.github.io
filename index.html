@@ -62,10 +62,10 @@ bodyClass: page-home
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
-            <!-- {{site.baseurl}}{{ service.url }} -->
-            <a href="javascript:void()">{{ service.title }}</a>
+            <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 120 }}
+          {{ service.description }}
+          <!-- {{ service.content | markdownify | strip_html | truncate: 120 }} -->
         </div>
       </div>
     </div>
