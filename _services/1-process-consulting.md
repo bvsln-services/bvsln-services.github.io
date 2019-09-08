@@ -14,6 +14,7 @@ Customized consulting services spanning multiple process areas to help organizat
 		<li> CMMI for Development (CMMI - Dev / SVC) </li>
 		<li> ISO 9001:2015 </li>
 		<li> ISO 27001:2013 </li>
+    <li> SSAE18 </li>
 	</ul>
   </div>
 </div>
