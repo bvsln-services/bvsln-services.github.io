@@ -1,5 +1,5 @@
 ---
-title: Team
+title: About | BVSLN Services
 layout: default
 bodyClass: page-team-list
 ---
@@ -8,38 +8,52 @@ bodyClass: page-team-list
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Meet The Team</h1>
+        <h1>About Us</h1>
         <p>
-          Our team of qualified accountants and financial consultants can help
-          your business at any stage of it's growth.
+          BVSLN System Services is a <a href="https://cmmiinstitute.com/partners/directory/bvsln-system-services-private-limited">CMMI Institute Partner</a> and Management Consulting Organization operating out of Bangalore, India. 
+        </p>
+        <p>
+            We primarily focus on Process consulting, taking advantage of the Industry recognised frameworks such as CMMI, ISO 9001, ISO 27001 and SSAE18. 
+        </p>
+        <p>
+            We being a team of experienced professionals in the areas of Project Management and Quality Management, strive to add value to the organizations that we partner with, by way of extending our training services in these areas.
         </p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="container pb-6">
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <h1>The Team</h1>
+      <p>Our team consists of experienced professionals with deep expertise.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container pt-6 pb-6">
   <div class="row">
     {% for team in site.team %}
-    <div class="col-12 col-md-6 mb-1">
-      <div class="team team-summary">
+    <div class="col-12 col-md-6 mb-1 pb-3 {% cycle 'pr-3', 'pl-3' %}">
+      <div class="team team-summary ">
         {% if team.image %}
         <div class="team-image">
           <img
             alt="{{ team.title }} logo"
-            class="img-fluid mb-2"
+            class="img-thumbnail rounded-circle"
             src="{{site.baseurl}}{{ team.image }}"
           />
         </div>
         {% endif %}
         <div class="team-meta">
           <h2 class="team-name">{{ team.title }}</h2>
-          <p class="team-description">{{ team.jobtitle }}</p>
+          <p class="team-description text-muted">{{ team.jobtitle }}</p>
           {% if team.linkedinurl %}
-          <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
+          <!-- <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a>  -->
           {% endif %}
         </div>
-        <div class="team-content">{{ team.content }}</div>
+        <div class="team-content pt-1">{{ team.content }}</div>
       </div>
     </div>
     {% endfor %}
